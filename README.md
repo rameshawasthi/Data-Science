@@ -1,2 +1,2 @@
 # Data-Science
-This repo contain code and data science related notes.
+This repo contains code and data science related notes.
