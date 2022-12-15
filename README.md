@@ -1,2 +1,2 @@
 # Data-Science
-machine learning and data science tutes
+This repo contain code and data science related notes.
